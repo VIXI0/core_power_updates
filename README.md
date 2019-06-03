@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Core Power Management help
 
-You can use the [editor on GitHub](https://github.com/VIXI0/core_power_updates/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can contact with [creators](https://github.com/VIXI0/core_power_updates/issues) to maintain and preview bugs or even to sugest ideas.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
