@@ -1,5 +1,5 @@
-## Welcome to Core Power Management un programa de lorena y miguel
+## Bienvenido a Core_Power_AYUDA un programa de Miguel Rodriguez
 
-You can contact with [creators](https://github.com/VIXI0/core_power_updates/issues) to maintain and preview bugs or even to sugest ideas.
+Puedes contactar con los [creadores](https://github.com/VIXI0/core_power_updates/issues) para mantener y reportar bugs o hasta sugerir ideas.
 
-## OSEA en español LLAMATE A MS LORENNA O MR MIKE
+## indice
