@@ -1,6 +1,6 @@
 ## Bienvenido a Core_Power
 ### MANUAL DE AYUDA
-Puedes contactar con los [creadores](https://github.com/VIXI0/core_power_updates/issues) para mantener y reportar bugs o hasta sugerir ideas.
+Puedes contactar con los [creadores](https://github.com/VIXI0/core_power_updates/issues) para mantenimiento, reportar bugs o hasta sugerir ideas.
 
 ## indice
 
